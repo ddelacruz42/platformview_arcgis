@@ -1,6 +1,6 @@
 # platformview_arcgis
 
-A new Flutter project.
+A new Flutter project. Displays an arcgis map in flutter using platformview.
 
 ## Getting Started
 
