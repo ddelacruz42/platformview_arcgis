@@ -1,6 +1,6 @@
 # platformview_arcgis
 
-A new Flutter project. Displays an arcgis map in flutter using platformview.
+A new Flutter project. Displays an arcgis map in flutter using platformview. Need to add valid arcgis api key for arcgis map to display.
 
 ## Getting Started
 
